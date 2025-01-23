@@ -38,11 +38,13 @@ MOTION出力も備えています。
 
 ## 寸法
 
-* ![](img/size.png)
+![](img/size.png)
 
 ## 使用例
 
 12mmトラックボール
+
+![](img/12mm-trackball.png)
 
 ### 部品表
 
