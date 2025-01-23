@@ -81,9 +81,9 @@ void setup() {
   delay(35);
 
   // Enable 12bit mode
-  //  writeSPI(0x09, 0x5A, CS_PIN);
-  //  writeSPI(0x19, 0x04, CS_PIN);
-  //  writeSPI(0x09, 0x00, CS_PIN);
+  //  writeSPI(0x09, 0x5A);
+  //  writeSPI(0x19, 0x04);
+  //  writeSPI(0x09, 0x00);
 
   // Wakeup from sleep
   writeSPI(0x06, 0x11);
@@ -120,7 +120,7 @@ void loop() {
   buf[2] = readSPI(0x04);
 
   // // Read upper 4bit of XY data
-  // buf[3] = readSPI(0x12, -1);
+  // buf[3] = readSPI(0x12);
 
   // Check motion flag
   if (buf[0] & 0x80) {
