@@ -27,7 +27,7 @@ MOTION出力も備えています。
 
 ## サンプルプログラム
 
-* [Arduino](sample_sketch)
+* [Arduino(XIAO RP2350)](sample_sketch)
 
 ![](img/connection.png)
 
