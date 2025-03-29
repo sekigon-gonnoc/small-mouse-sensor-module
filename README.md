@@ -28,6 +28,7 @@ MOTION出力も備えています。
 ## サンプルプログラム
 
 * [Arduino(XIAO RP2350)](sample_sketch)
+* [zmk-driver-paw3222](https://github.com/sekigon-gonnoc/zmk-driver-paw3222)
 
 ![](img/connection.png)
 
