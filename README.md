@@ -12,7 +12,7 @@ MOTION出力も備えています。
 ## ピン配置
 
 0.5mmピッチ、6ピンのFPCで接続します。
-同一電極面のFPCを使う場合、対向する側のコネクタでピン順が反転するので注意してください（下方の参考回路図を参照してください）。
+同一電極面のFPCを使う場合、対向する側のコネクタでピン順が反転するので注意してください。
 
 |ピン番号|信号|
 |-|-|
@@ -28,8 +28,6 @@ MOTION出力も備えています。
 ## サンプルプログラム
 
 * [Arduino(XIAO RP2350)](sample_sketch)
-* [zmk-driver-paw3222](https://github.com/sekigon-gonnoc/zmk-driver-paw3222)
-* [qmk-driver-paw3222](https://github.com/sekigon-gonnoc/qmk-driver-paw3222)
 
 ![](img/connection.png)
 
