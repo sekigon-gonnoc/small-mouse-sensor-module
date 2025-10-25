@@ -25,6 +25,8 @@ MOTION出力も備えています。
 
 ![](img/image.png)
 
+[コネクタの操作方法と注意点をよく確認してください](https://www.hirose.com/ja/product/document?clcode=&productname=&series=FH19C__FH19SC&documenttype=Catalog&lang=ja&documentid=D31611_ja)
+
 ## サンプルプログラム
 
 * [Arduino(XIAO RP2350)](sample_sketch)
