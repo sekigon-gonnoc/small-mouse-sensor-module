@@ -48,6 +48,10 @@ MOTION出力も備えています。
 
 ![](img/12mm-trackball.png)
 
+[torabo-tsuki LP](https://github.com/sekigon-gonnoc/torabo-tsuki-lp)
+
+[Auto-KDK](https://github.com/sekigon-gonnoc/auto-kdk)
+
 ### 部品表
 
 * マウスセンサーモジュール
