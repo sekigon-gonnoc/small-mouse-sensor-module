@@ -25,7 +25,7 @@ MOTION出力も備えています。
 
 ![](img/image.png)
 
-[コネクタの操作方法と注意点をよく確認してください](https://www.hirose.com/ja/product/document?clcode=&productname=&series=FH19C__FH19SC&documenttype=Catalog&lang=ja&documentid=D31611_ja)
+[コネクタの操作方法と注意点をよく確認してください](https://www.hirose.com/ja/product/series/FH19C__FH19SC/documents?path=%2Fapi%2Fv1%2Fseries%2FFH19C__FH19SC%2Fdocuments%2Fproduct_series_catalog%2Fcontent%3Flang%3DJA)
 
 ## サンプルプログラム
 
